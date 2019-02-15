@@ -48,7 +48,7 @@ footer:
   #since: 2015
 
   # Icon between year and copyright info.
-  icon: user
+  icon: heart
 
   # If not defined, will be used `author` from Hexo main config.
   copyright:
@@ -130,7 +130,7 @@ social:
   GitHub: https://github.com/jackchenjy || github
   E-Mail: mailto:cjy@visionunion.cn || envelope
   #Google: https://plus.google.com/yourname || google
-  #Twitter: https://twitter.com/yourname || twitter
+  Twitter: https://twitter.com/Jack_Chen_Babe || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   Linkedin: https://www.linkedin.com/in/jianyong-chen-9b51099b || linkedin
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
@@ -208,7 +208,7 @@ sidebar:
 scroll_to_more: true
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: false
+save_scroll: true
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
@@ -242,9 +242,9 @@ post_wordcount:
   #description: ex. subscribe to my blog by scanning my public wechat account
 
 # Reward
-#reward_comment: Donate comment here
-#wechatpay: /images/wechatpay.jpg
-#alipay: /images/alipay.jpg
+#reward_comment: 打赏
+wechatpay: /images/wechatpay.jpg
+alipay: /images/alipay.jpg
 #bitcoin: /images/bitcoin.png
 
 # Declare license on posts
@@ -523,8 +523,8 @@ vkontakte_api:
 # Star rating support to each article.
 # To get your ID visit https://widgetpack.com
 rating:
-  enable: false
-  id:     #<app_id>
+  enable: true
+  id: 16717
   color:  fc6423
 # ---------------------------------------------------------------
 
@@ -532,8 +532,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: j3BX0C2b6s0vyf6FYgJ8F7Ia-gzGzoHsz
-  app_key: FoLGiKhQahIHAjAVjeVh8W05
+  app_id: q1lkIJPTi3mY7cAWWLFBHM5H-gzGzoHsz
+  app_key: Q3GQ364eVSheOtY1B05k6CxX
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId

@@ -8,7 +8,6 @@ categories:
 - Life
 comments: true
 description: Vicky Recents
-photos:
-- "http://aixti.cn/wp-content/uploads/2019/01/IMG_3562.jpg"
+
 ---
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzk5MTA3MjY1Mg==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzk4OTc5NDA3Ng==' frameborder=0 'allowfullscreen'></iframe>

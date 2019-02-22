@@ -2,7 +2,6 @@
 title: Hexo在文章中插入Youku视频
 date: 2019-02-22 20:26:29
 tags:
-- 优酷
 - hexo
 categories:
 - Hexo

@@ -8,6 +8,8 @@ categories:
 - Hexo
 comments: true
 description: Hexo在文章中插入Youku视频
+photos:
+- "http://aixti.cn/wp-content/uploads/2019/01/IMG_3469-1.jpg"
 ---
 安装 hexo-tag-youku插件，在文章中插入Youku视频
 

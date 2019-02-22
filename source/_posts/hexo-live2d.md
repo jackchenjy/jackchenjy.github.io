@@ -8,6 +8,8 @@ categories:
 - Hexo
 comments: true
 description: 在Hexo博客上添加可爱的Live 2D模型
+photos:
+- "http://aixti.cn/wp-content/uploads/2019/01/IMG_3561.jpg"
 ---
 # 安装npm包
 ```

@@ -8,6 +8,8 @@ categories:
 - Hexo
 comments: true
 description: github & hexo solution guidline
+photos:
+- "http://aixti.cn/wp-content/uploads/2019/01/IMG_3562.jpg"
 #password: vicky
 copyright: true
 ---

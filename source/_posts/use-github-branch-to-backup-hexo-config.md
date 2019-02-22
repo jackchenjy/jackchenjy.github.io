@@ -6,7 +6,7 @@ tags:
 - hexo
 comments: true
 description: github & hexo solution guidline
-password: password
+#password: vicky
 copyright: true
 ---
 >This is my first post.

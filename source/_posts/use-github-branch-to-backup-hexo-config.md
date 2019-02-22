@@ -4,6 +4,8 @@ date: 2019-02-14 13:17:34
 tags:
 - github
 - hexo
+categories:
+- Hexo
 comments: true
 description: github & hexo solution guidline
 #password: vicky

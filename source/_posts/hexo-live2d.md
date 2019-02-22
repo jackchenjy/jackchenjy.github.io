@@ -4,6 +4,8 @@ date: 2019-02-22 20:36:17
 tags:
 - Live2D
 - hexo
+categories:
+- Hexo
 comments: true
 description: 在Hexo博客上添加可爱的Live 2D模型
 ---

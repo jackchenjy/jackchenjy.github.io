@@ -75,11 +75,11 @@ footer:
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 
 # ---------------------------------------------------------------
@@ -140,8 +140,8 @@ social:
 
 social_icons:
   enable: true
-  icons_only: false
-  transition: false
+  icons_only: true
+  transition: true
 
 # Blog rolls
 links_icon: link
@@ -191,13 +191,13 @@ sidebar:
   offset: 12
 
   # Back to top in sidebar (only for Pisces | Gemini).
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button.
-  scrollpercent: false
+  scrollpercent: true
 
   # Enable sidebar on narrow view (only for Muse | Mist).
-  onmobile: false
+  onmobile: true
 
 
 # ---------------------------------------------------------------
@@ -223,7 +223,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false
+  updated_at: true
   categories: true
 
 # Post wordcount display settings
@@ -250,8 +250,8 @@ alipay: /images/alipay.jpg
 # Declare license on posts
 post_copyright:
   enable: true
-  license: CC BY-NC-SA 3.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  license: 创作共用-署名-非商业性-相同方式共享 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0/deed.zh
 
 
 # ---------------------------------------------------------------
@@ -259,7 +259,7 @@ post_copyright:
 # ---------------------------------------------------------------
 
 # Reduce padding / margin indents on devices with narrow width.
-mobile_layout_economy: false
+mobile_layout_economy: true
 
 # Android Chrome header panel color ($black-deep).
 android_chrome_color: "#222"
@@ -395,7 +395,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC80MjY2NS8xOTIxMg==
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -565,10 +565,10 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+tencent_analytics: 66181230
 
 # Tencent MTA ID
-# tencent_mta:
+tencent_mta: 500671595
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
@@ -604,7 +604,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -692,7 +692,7 @@ pace: true
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-minimal
+pace_theme: pace-theme-flash
 
 # Canvas-nest
 canvas_nest: false

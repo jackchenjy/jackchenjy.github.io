@@ -9,6 +9,7 @@ categories:
 comments: true
 description: 拜年合集
 photos:
-- "http://aixti.cn/wp-content/uploads/2019/02/career.jpg"
+- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/career.jpg"
 ---
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzM2NjA4Mzg4MA==' frameborder=0 'allowfullscreen'></iframe>
+<div style="width: 500px;height: 380px;margin: 0px auto;">        <iframe width="500px" height="380px" src="http://player.youku.com/embed/XMzM2NjA4Mzg4MA" frameborder=0 allowfullscreen></iframe>
+</div>

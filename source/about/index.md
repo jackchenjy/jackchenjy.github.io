@@ -2,7 +2,17 @@
 title: 关于
 date: 2019-02-15 12:46:33
 type: about
+comments: false
 ---
+{% cq %}
+
+今后的岁月中，继续对生命意义的思考，对自己的真实。
+这个时代，需要从自己的心里给出的：真心、正义、无畏和同情。
+
+{% endcq %}    
+
+{% tabs 关于,2 %}
+<!-- tab 我们 -->
 
 <div style="float:right">
     <img src="https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky2.JPG" width="100">
@@ -64,8 +74,7 @@ type: about
  - 期望职位：基金经理助理
  - 期望薪资：税前月薪10k~15k，特别喜欢的公司例外
  - 期望城市：深圳
- - Github：https://github.com/jackchenjy
- - Linkedin：https://www.linkedin.com/in/jianyong-chen-9b51099b
+
 
 ---
 
@@ -122,5 +131,21 @@ type: about
 
 ---
 
-# 致谢
-感谢Vicky的鼓励。
+# 联系
+- 感谢Vicky的鼓励。
+- [<i class="fa fa-fw fa-wechat">](https://chat.daovoice.io/?id=a13048b4)
+- [<i class="fa fa-fw fa-github">](https://github.com/jackchenjy)
+- [<i class="fa fa-fw fa-linkedin">](https://www.linkedin.com/in/jianyong-chen-9b51099b)
+
+<!-- endtab -->
+<!-- tab 本站 -->
+<a class="gh-btn" id="gh-btn" href="https://github.com/jackchenjy/jackchenjy.github.io/" target="_blank" aria-label="Star on GitHub"><span class="gh-ico" aria-hidden="true"></span><span class="gh-text" id="gh-text"></span></a>
+<iframe align="right" style="margin-left: 2px; margin-bottom:-5px;" frameborder="0" scrolling="0" width="100px" height="30px" src="https://ghbtns.com/github-btn.html?user=jackchenjy&amp;repo=jackchenjy.github.io&amp;type=star&amp;count=true">
+</iframe>
+
+**厚德载物，自强不息。**
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2683260205&auto=0&height=430"></iframe>
+
+<!-- endtab -->
+{% endtabs %}

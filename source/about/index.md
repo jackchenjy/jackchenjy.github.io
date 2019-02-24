@@ -5,7 +5,7 @@ type: about
 ---
 
 <div style="float:right">
-    <img src="http://aixti.cn/wp-content/uploads/2019/01/IMG_3561.jpg" width="100">
+    <img src="https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky2.JPG" width="100">
 </div>
 # 个人信息
 
@@ -54,7 +54,7 @@ type: about
 ---
 
 <div style="float:right">
-    <img src="http://aixti.cn/wp-content/uploads/2019/02/jack.jpg" width="100">
+    <img src="https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/jack_resume.jpg" width="100">
 </div>
 # 个人信息
 

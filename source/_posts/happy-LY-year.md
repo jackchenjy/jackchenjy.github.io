@@ -8,8 +8,8 @@ categories:
 - Life
 comments: true
 description: Vicky Recents
-
+photos:
+- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky3.JPG"
 ---
 
-<div style="width: 500px;height: 380px;margin: 0px auto;">        <iframe width="500px" height="380px" src="http://player.youku.com/embed/XMzk5MTA3MjY1Mg" frameborder=0 allowfullscreen></iframe>
-</div>
+<iframe height=498 width=510 src='https://player.youku.com/embed/XMzk4OTc5NDA3Ng==' frameborder=0 'allowfullscreen'></iframe>

@@ -8,11 +8,10 @@ categories:
 comments: true
 description: Hexo在文章中插入Youku视频
 photos:
-- "http://aixti.cn/wp-content/uploads/2019/01/IMG_3469-1.jpg"
+- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky1.JPG"
 ---
 代码如下
 
 ```
-<div style="width: 500px;height: 380px;margin: 0px auto;">        <iframe width="500px" height="380px" src="http://player.youku.com/embed/XMzM2NjA4Mzg4MA" frameborder=0 allowfullscreen></iframe>
-</div>
+<iframe height=498 width=510 src='https://player.youku.com/embed/XMzk4OTc5NDA3Ng==' frameborder=0 'allowfullscreen'></iframe>
 ```

@@ -51,7 +51,7 @@
   <entry>
     <title><![CDATA[Hexo在文章中插入Youku视频]]></title>
     <url>%2FHexo%2Fhexo-embed-youku-video.html</url>
-    <content type="text"><![CDATA[代码如下 12&lt;div style=&quot;width: 500px;height: 380px;margin: 0px auto;&quot;&gt; &lt;iframe width=&quot;500px&quot; height=&quot;380px&quot; src=&quot;http://player.youku.com/embed/XMzM2NjA4Mzg4MA&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;]]></content>
+    <content type="text"><![CDATA[代码如下 1&lt;iframe height=498 width=510 src=&apos;http://player.youku.com/embed/XMzk4OTc5NDA3Ng==&apos; frameborder=0 &apos;allowfullscreen&apos;&gt;&lt;/iframe&gt;]]></content>
       <categories>
         <category>Hexo</category>
       </categories>

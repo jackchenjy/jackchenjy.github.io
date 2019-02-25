@@ -11,7 +11,7 @@
   <entry>
     <title><![CDATA[Only for Vicky 02]]></title>
     <url>%2FLife%2FOnly-for-Vicky%2002.html</url>
-    <content type="text"><![CDATA[点这里function load_home() { document.getElementById(“viewDiv”).innerHTML = ‘‘; }]]></content>
+    <content type="text"><![CDATA[点这里]]></content>
       <tags>
         <tag>vicky</tag>
       </tags>

@@ -4,6 +4,8 @@ date: 2019-02-15 12:46:33
 type: about
 comments: false
 ---
+<script src="https://cdn.jsdelivr.net/gh/jackchenjy/balloon.js/balloon.min.js"></script>
+
 {% cq %}
 
 今后的岁月中，继续对生命意义的思考，对自己的真实。
@@ -144,8 +146,7 @@ comments: false
 </iframe>
 
 **厚德载物，自强不息。**
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2683260205&auto=0&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=0&id=2683260205&auto=1&height=90"></iframe>
 
 <!-- endtab -->
 {% endtabs %}

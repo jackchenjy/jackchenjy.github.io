@@ -15,7 +15,7 @@ menu:
   search: 搜索
   schedule: 日程表
   sitemap: 站点地图
-  commonweal: 公益404
+  commonweal: 公益
   top: 阅读排行
 
 sidebar:
@@ -39,7 +39,7 @@ post:
     author: 作者
     link: 本文链接
     license_title: 版权声明
-    license_content: '所有文章除特别声明外，均采用
+    license_content: '本站采用
       <a href="%s" rel="external nofollow" target="_blank">%s</a> 许可协议。转载请注明出处！'
 
 page:
@@ -47,7 +47,7 @@ page:
   tags: 标签
 
 footer:
-  powered: "由 %s 强力驱动"
+  powered: "由 %s 驱动"
   theme: 主题
 
 counter:
@@ -67,7 +67,7 @@ counter:
     other: "目前共计 %d 篇文章。"
 
 state:
-  posts: 日志
+  posts: 文章
   pages: 页面
   tags: 标签
   categories: 分类

@@ -99,5 +99,9 @@ live2d:
     position: right
     width: 75
     height: 150
+    
   mobile:
     show: true
+
+lazyload:
+  enable: true

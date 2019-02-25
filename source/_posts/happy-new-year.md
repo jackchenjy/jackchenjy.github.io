@@ -13,4 +13,6 @@ photos:
 - "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/career.jpg"
 ---
 
+<script src="https://cdn.jsdelivr.net/gh/jackchenjy/balloon.js/balloon.min.js"></script>
+
 <iframe height=498 width=510 src='https://player.youku.com/embed/XMzM2NjA4Mzg4MA==' frameborder=0 'allowfullscreen'></iframe>

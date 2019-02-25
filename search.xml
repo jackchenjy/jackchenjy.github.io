@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Only for Vicky 01]]></title>
+    <url>%2FLife%2FOnly-for-Vicky-01.html</url>
+    <content type="text"><![CDATA[点这里]]></content>
+      <tags>
+        <tag>vicky</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Only for Vicky 02]]></title>
-    <url>%2FLife%2FOnly-for-Vicky.html</url>
-    <content type="text"><![CDATA[你的浏览器不支持iframe页面嵌套，请点击这里访问页面内容。]]></content>
+    <url>%2FLife%2FOnly-for-Vicky%2002.html</url>
+    <content type="text"><![CDATA[点这里]]></content>
       <tags>
         <tag>vicky</tag>
       </tags>

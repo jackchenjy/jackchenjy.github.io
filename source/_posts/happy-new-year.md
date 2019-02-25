@@ -1,6 +1,7 @@
 ---
 title: 新年快乐
 date: 2019-02-22 23:35:22
+fireworks: true
 tags:
 - 银行
 - 视频制作

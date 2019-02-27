@@ -8,7 +8,7 @@ categories:
 comments: true
 description: Hexo在文章中插入Youku视频
 photos:
-- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky1.JPG"
+- "https://aixti.cn/res/vicky/vicky5.JPG"
 ---
 代码如下
 

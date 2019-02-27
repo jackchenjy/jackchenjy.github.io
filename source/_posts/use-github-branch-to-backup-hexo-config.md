@@ -9,7 +9,7 @@ categories:
 comments: true
 description: github & hexo solution guidline
 photos:
-- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky3.JPG"
+- "https://aixti.cn/res/vicky/vicky4.JPG"
 #password: vicky
 copyright: true
 ---

@@ -9,7 +9,7 @@ categories:
 comments: true
 description: 卸载HEXO next Youku视频、live2d等插件
 photos:
-- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky1.JPG"
+- "https://aixti.cn/res/vicky/vicky4.JPG"
 ---
 首先删除\themes\next\layout下_layout.swig文件内的与youku和live2d有关的代码（你配置时添加的代码）
 同理删除主题配置文件和hexo配置文件（如果也添加过live2d相关代码）。

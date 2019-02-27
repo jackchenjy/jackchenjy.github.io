@@ -10,7 +10,7 @@ categories:
 comments: true
 description: 拜年合集
 photos:
-- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/career.jpg"
+- "https://aixti.cn/res/vicky/vicky1.jpg"
 ---
 
 <script src="https://cdn.jsdelivr.net/gh/jackchenjy/balloon.js/balloon.min.js"></script>

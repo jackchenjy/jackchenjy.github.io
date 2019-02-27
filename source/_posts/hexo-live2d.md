@@ -9,7 +9,7 @@ categories:
 comments: true
 description: 在Hexo博客上添加可爱的Live 2D模型
 photos:
-- "https://vu-1255958126.cos.ap-beijing.myqcloud.com/personal/vicky2.JPG"
+- "https://aixti.cn/res/vicky/vicky7.JPG"
 ---
 # 安装npm包
 ```

@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[MacOS multi-OS installation guidline]]></title>
+    <url>%2Ftech%2FMacOS-multi-OS-installation-guidline.html</url>
+    <content type="text"><![CDATA[全程四步：虚拟机客户端安装、下载系统镜像（E.g.Win10.iso)、安装系统镜像、系统参数调优 虚拟机客户端安装VMware Fusion，按以下官网地址下载，激活码微信发你 VMware – Official Site. 系统镜像下载切记从官方网站上，第三方网站的系统，常以植入后门程序获取用户信息，或者植入广告来牟利！Win10:MSDN, 我告诉你. 虚拟系统安装选择第一项新建即可, 如果你有装好的bootcamp分区的windows话,也可以选择直接启动选择windows来源方式, 将下载好的windows直接拖拽进入即可下一步继续取消勾选快速配置安装.程序运行完后会自动进入windows界面, 这样你就可以开始使用WIndows虚拟机了.如果你是使用的虚拟文件安装的话, 在关闭虚拟机的时候只需要点击x关闭即可, 虚拟机会自动驻留关机前的状态. 虚拟机配置短期不用用，暂停即可，将暂停键配置到TouchBar上更丝滑哦！一触可以继续或暂停。杀毒软件用自带的，切忌安装360和某电脑管家，碰上360，越用越慢就得不偿失了]]></content>
+      <categories>
+        <category>tech</category>
+      </categories>
+      <tags>
+        <tag>tech</tag>
+        <tag>OS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[career gallery]]></title>
+    <url>%2FCareer%2Fcareer-gallery.html</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Career</category>
+      </categories>
+      <tags>
+        <tag>银行</tag>
+        <tag>career</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[电脑使用提示]]></title>
     <url>%2Ftech%2Fcomputer-use-manual.html</url>
-    <content type="text"><![CDATA[凡经我手安装的计算机系统，均已配置好防火墙、杀软和部分常用软件，只管放心使用，用坏了包安装。 Windows使用提醒：禁止再安装杀毒软件、电脑管家，特别是：XX电脑管家、360。如果装了上述软件，轻则运行速度变慢，部分软件巨卡无比，重则计算机因负载过高而爆炸。MacBook使用建议：无论是苹果系统还是Windows系统，不要再安装杀毒软件、XX电脑管家。特别是：Mackeeper,360,腾讯电脑管家。一定不要装，否则运行速度会变慢，部分软件巨卡无比。定期在app store更新系统和软件不需要频繁开关机，用完合上盖子就行，要用的时候揭盖即用。显示屏需要贴保护膜，华强北大约40-50元包贴好，要贴上后显示效果依然清晰的那种。在设置-触摸板里查看各种触摸板手势操作，上手后操作非常便捷，完全可抛弃鼠标。买个大容量的移动硬盘，用时间机器的自动备份，所有的系统、文件都会被定期自动备份下来。]]></content>
+    <content type="text"><![CDATA[凡经我手安装的计算机系统，均已配置好防火墙、杀软和部分常用软件，只管放心使用，用坏了尽管来找我。 Windows使用提醒：禁止再安装以下软件禁止再安装杀毒软件、电脑管家，特别是：XX电脑管家、360。如果装了上述软件，轻则运行速度变慢，部分软件巨卡无比，重则计算机因负载过高而爆炸。 MacBook使用建议禁止安装以下软件无论是苹果系统还是Windows系统，不要再安装杀毒软件、XX电脑管家。特别是：Mackeeper,360,腾讯电脑管家。一定不要装，否则运行速度会变慢，部分软件巨卡无比。 定期更新定期在app store更新系统和软件 用盒盖代替关机不需要频繁开关机，用完合上盖子就行，要用的时候揭盖即用。 贴膜显示屏需要贴保护膜，华强北大约40-50元包贴好，要贴上后显示效果依然清晰的那种。 设置手势在设置-触摸板里查看各种触摸板手势操作，上手后操作非常便捷，完全可抛弃鼠标。 使用Time Machine备份买个大容量的移动硬盘，用时间机器备份，包括操作系统在内的所有文件，都会被定期备份下来。]]></content>
       <categories>
         <category>tech</category>
       </categories>
@@ -14,7 +38,7 @@
   <entry>
     <title><![CDATA[Only for Vicky]]></title>
     <url>%2Fvicky%2FOnly-for-Vicky.html</url>
-    <content type="text"><![CDATA[点这里看第一个 点这里看第二个 点这里看第三个]]></content>
+    <content type="text"><![CDATA[点这里看爱心树 点这里看字谜 点这里看IRON MAN]]></content>
       <categories>
         <category>vicky</category>
       </categories>

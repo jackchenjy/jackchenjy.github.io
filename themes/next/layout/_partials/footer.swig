@@ -1,5 +1,5 @@
 <div class="copyright">{#
-#}{% set current = date(Date.now(), "YYYY") %}{#
+#}{% set current = date(Date.now(2020), "YYYY") %}{#
 #}&copy; {% if theme.footer.since and theme.footer.since != current %}{{ theme.footer.since }} &mdash; {% endif %}{#
 #}<span itemprop="copyrightYear">{{ current }}</span>
   <span class="with-love" id="heart">

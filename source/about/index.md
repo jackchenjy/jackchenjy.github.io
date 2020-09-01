@@ -8,7 +8,7 @@ comments: false
 
 {% cq %}
 
-为人民服务
+高高山顶立，深深海底行。
 
 {% endcq %}    
 
